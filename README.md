@@ -1,1 +1,1 @@
-# equivariantCNN
+# EquivariantCNN
